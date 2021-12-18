@@ -1,0 +1,4 @@
+requests
+requests-oauthlib
+sphinx
+sphinx_rtd_theme
